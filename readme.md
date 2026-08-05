@@ -300,7 +300,7 @@ Customer-Shopping-Behavior-Analysis/
 # 📷 Dashboard Preview
 
 ```markdown
-![Dashboard](Image/Screenshot 2026-08-05 201938.png)
+![image alt](https://github.com/yashmaurya1/customer-behavior-analysis-python-sql-powerbi/tree/7f2fdc6e45012ca66ce2339d7124498ebb013ab7/Image).
 ```
 
 ---
