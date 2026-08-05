@@ -299,9 +299,9 @@ Customer-Shopping-Behavior-Analysis/
 
 # 📷 Dashboard Preview
 
-```markdown
+
 ![image alt](https://github.com/yashmaurya1/customer-behavior-analysis-python-sql-powerbi/tree/7f2fdc6e45012ca66ce2339d7124498ebb013ab7/Image).
-```
+
 
 ---
 
