@@ -300,7 +300,7 @@ Customer-Shopping-Behavior-Analysis/
 # 📷 Dashboard Preview
 
 
-![image alt](https://github.com/yashmaurya1/customer-behavior-analysis-python-sql-powerbi/tree/7f2fdc6e45012ca66ce2339d7124498ebb013ab7/Image).
+![image alt](https://github.com/yashmaurya1/customer-behavior-analysis-python-sql-powerbi/blob/c138824edb381fc9049d45ad599c2b5986b9076a/Screenshot%202026-08-05%20201938.png)
 
 
 ---
